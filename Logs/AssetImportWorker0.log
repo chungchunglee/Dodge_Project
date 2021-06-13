@@ -216,3 +216,43 @@ Received Import Request.
   path: Assets/Script/Player_Controller.cs
   artifactKey: Guid(3a103f0ee35ccc5408280d3fc9a26253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Script/Player_Controller.cs using Guid(3a103f0ee35ccc5408280d3fc9a26253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ec0321cf629a090798186a593634fe') in 0.005746 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005888 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2661 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.4 MB.
+System memory in use after: 106.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3171.
+Total: 2.286900 ms (FindLiveObjects: 0.251600 ms CreateObjectMapping: 0.070000 ms MarkObjects: 1.856800 ms  DeleteObjects: 0.107000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005947 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2661 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.4 MB.
+System memory in use after: 106.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3174.
+Total: 1.838600 ms (FindLiveObjects: 0.261900 ms CreateObjectMapping: 0.067800 ms MarkObjects: 1.462700 ms  DeleteObjects: 0.045500 ms)
+
